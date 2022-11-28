@@ -1,0 +1,3 @@
+news:
+  rss-url: "http://lorem-rss.herokuapp.com/feed"
+  repeats: 1000
