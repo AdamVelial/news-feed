@@ -18,6 +18,10 @@ cd news-feed
 ./mvnw package 
 
 # API Endpoint : http://127.0.0.1:8000
+
+#news
+curl http://127.0.0.1:8080/news
+curl http://127.0.0.1:8080/news/filter?filter=football
 ```
 
 ## Structure
